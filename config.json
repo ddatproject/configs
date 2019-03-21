@@ -3,7 +3,7 @@
     "message": "Success",
     "data": {
         "is_on_maintain": 0,
-        "maintenance_text": "We are under maintenance. Please comback later. Thank you!",
+        "maintenance_text": "We are under maintenance, Please comback later. Thank you!",
         "is_ads": 1,
         "ads_rate": 3,
         "ads_rate_v2": 10,
